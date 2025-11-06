@@ -55,15 +55,20 @@ Step 10: Published the report to Power BI Service and set up scheduled refresh.
 ## Dashboard Snapshots
 
 ### Overview Page
+
 ![image alt](https://github.com/Vasanth-TD/Mobile-data-Analysis-Sharepoint-/blob/0d6da08dddf192b2641be67e02fe517d09196848/assets/Images/page%201.png)
 
 ### Camera Resolution Details
-![image alt](https://github.com/Vasanth-TD/Mobile-data-Analysis-Sharepoint-/blob/0d6da08dddf192b2641be67e02fe517d09196848/assets/Images/page%202.png)
+
+![image alt](https://github.com/Vasanth-TD/Mobile-data-Analysis-Sharepoint-/blob/2c8143a919ac565b319b4f9ac1ff837dd260bf59/assets/Images/page%202%20.png)
+
 
 ### Price Analysis Page
-![image alt](https://github.com/Vasanth-TD/Mobile-data-Analysis-Sharepoint-/blob/0d6da08dddf192b2641be67e02fe517d09196848/assets/Images/page%203.png)
+
+![image alt](https://github.com/Vasanth-TD/Mobile-data-Analysis-Sharepoint-/blob/2c8143a919ac565b319b4f9ac1ff837dd260bf59/assets/Images/Page%203.png)
 
 ### Feature Analysis Page
+
 ![image alt](https://github.com/Vasanth-TD/Mobile-data-Analysis-Sharepoint-/blob/0d6da08dddf192b2641be67e02fe517d09196848/assets/Images/page%204.png)
 
 ---
