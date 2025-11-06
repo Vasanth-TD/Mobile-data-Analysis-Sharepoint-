@@ -1,6 +1,6 @@
 # Mobile Data Analysis
 
-### Dashboard Link : [Mobile Data Dashboard](https://app.powerbi.com/...)](https://app.powerbi.com/Redirect?action=OpenApp&appId=b51e3f07-479f-4de5-8e60-f4fc6269838e&ctid=5e81dc77-db51-4a31-8660-6858117beb25&experience=power-bi)
+### Dashboard Link : [Mobile data](https://app.powerbi.com/Redirect?action=OpenApp&appId=b51e3f07-479f-4de5-8e60-f4fc6269838e&ctid=5e81dc77-db51-4a31-8660-6858117beb25&experience=power-bi)
 
 ---
 
